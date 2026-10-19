@@ -1,0 +1,3 @@
+Detection_ID,Class,Category,Confidence (%),BBox_X1,BBox_Y1,BBox_X2,BBox_Y2,Area_Pixels
+1,Car,Vehicle,53.67,0,40,1079,708,720772
+2,Truck,Vehicle,49.21,1,47,1080,709,714298
